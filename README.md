@@ -1,6 +1,6 @@
 # twitterNumberQuiz
 With this quick an dirty approach, I wanted to ensure that there isnt a single sequence containing a 4 
-Inspired by [https://twitter.com/freezone76/status/1592207354791358464](twitter.com/freezone76/status/1592207354791358464)
+Inspired by [twitter.com/freezone76/status/1592207354791358464](https://twitter.com/freezone76/status/1592207354791358464)
 
 
 ## Question: What is the next row
